@@ -1,0 +1,3 @@
+#SID1	HID2	SID2	HID2	CHROM	START	END
+1	1	2	1	1	5	10
+1   2   2   2   1   5   10
