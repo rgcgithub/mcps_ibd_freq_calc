@@ -9,3 +9,7 @@ from RFMix run on array variants to WES/WGS sites.
 
 The program in `calc-ibd-freq` uses these estimates to compute raw and
 relatedness corrected allele frequencies.
+
+### Contact
+* Tyler Joseph: `tyler.joseph at regeneron dot com`
+* Andrey Ziyatdinov: `andrey.ziyatdinov at regeneron dot com`
